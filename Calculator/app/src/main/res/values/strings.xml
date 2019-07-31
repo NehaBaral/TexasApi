@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="textview">TextView</string>
+    <string name="neha">Neha</string>
+    <string name="neha_baral">Neha Baral</string>
+    <string name="baral">I am Neha Baral.</string>
+    <string name="error">Error occured!!!!!!</string>
+</resources>
